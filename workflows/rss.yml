@@ -7,6 +7,10 @@ on:
       - https://idealclover.top/feed
       - https://blog.miigon.net/feed.xml
       - https://zgq.ink/feed
+      - https://www.owenyoung.com/atom.xml
+      - https://mogeko.me/index.xml
+      - https://akilar.top/atom.xml
+      - https://diygod.me/feed/xml
      
 jobs:
   request:

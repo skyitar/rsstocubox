@@ -3,6 +3,10 @@ on:
     url:
       - https://lutaonan.com/rss.xml
       - https://limboy.me/index.xml
+      - https://www.ruanyifeng.com/blog/atom.xml
+      - https://idealclover.top/feed
+      - https://blog.miigon.net/feed.xml
+      - https://zgq.ink/feed
      
 jobs:
   request:
